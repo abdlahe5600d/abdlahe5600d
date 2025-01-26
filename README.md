@@ -17,11 +17,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">Hello! My name is Abdellah. I'm from Morocco and I have a strong interest in coding. I am passionate about developing my skills and knowledge in the world of programming.</p>
+<p align="center">Hello! My name is Abdellah. I'm from Morocco and I have a strong interest in coding. I am passionate about developing my skills and knowledge in the world of programming.</p>
 
 ###
 
