@@ -33,7 +33,11 @@
 
 ###
 
-<p align="left">My Journey So Far 🌟<br>I'm a beginner in programming, and my current adventure is learning C++. While I don't have experience with any other programming languages yet, I'm excited and determined to improve my skills every day.</p>
+<h3 align="center">My Journey So Far 🌟</h3>
+
+###
+
+<p align="center">I'm a beginner in programming, and my current adventure is learning C++. While I don't have experience with any other programming languages yet, I'm excited and determined to improve my skills every day.</p>
 
 ###
 
@@ -51,7 +55,7 @@
 
 ###
 
-<p align="left">I'm currently learning C++ and actively developing my skills. My goals are:<br><br>Algorithmic Problem Solving<br><br>Projects<br><br>OOP: Object-Oriented Programming<br><br>Data Structures and Algorithms<br><br>I'm interested in these steps to become a good problem solver and build strong projects.</p>
+<p align="center">I'm currently learning C++ and actively developing my skills. My goals are:<br><br>Algorithmic Problem Solving<br><br>Projects<br><br>OOP: Object-Oriented Programming<br><br>Data Structures and Algorithms<br><br>I'm interested in these steps to become a good problem solver and build strong projects.</p>
 
 ###
 
