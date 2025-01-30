@@ -27,13 +27,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://camo.githubusercontent.com/f42a546ce7b848446fad2b44e233accffa610f78fb297b7c45b202880e7c8cec/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596d70365a6d5a6d634468684d6e466a62474e6a596e6c714d3259784e4746334e7a6835624870754d474e76596e466964326c775a435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966"  />
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/f42a546ce7b848446fad2b44e233accffa610f78fb297b7c45b202880e7c8cec/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596d70365a6d5a6d634468684d6e466a62474e6a596e6c714d3259784e4746334e7a6835624870754d474e76596e466964326c775a435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966"  />
+</div>
 
 ###
 
-<p align="left">My Journey So Far 🌟<br>I started my programming adventure with a curious mind and a determination to improve. I have some foundational skills in Python and C++ and am actively developing my expertise in automation using Selenium.<br><br>Projects and Learning 📚<br>Here on GitHub, you'll find my projects, which showcase my progress and learning path. From simple scripts to automation projects, each project represents a step forward in my coding journey.</p>
+<p align="left">My Journey So Far 🌟<br>I'm a beginner in programming, and my current adventure is learning C++. While I don't have experience with any other programming languages yet, I'm excited and determined to improve my skills every day.</p>
 
 ###
 
@@ -43,11 +43,15 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
+
+###
+
+<h3 align="center">My Goal in Programming (🎯)</h3>
+
+###
+
+<p align="left">I'm currently learning C++ and actively developing my skills. My goals are:<br><br>Algorithmic Problem Solving<br><br>Projects<br><br>OOP: Object-Oriented Programming<br><br>Data Structures and Algorithms<br><br>I'm interested in these steps to become a good problem solver and build strong projects.</p>
 
 ###
 
