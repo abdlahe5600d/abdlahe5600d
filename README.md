@@ -55,7 +55,7 @@
 
 ###
 
-<p align="center">I'm currently learning C++ and actively developing my skills. My goals are:<br><br>Algorithmic Problem Solving<br><br>Projects<br><br>OOP: Object-Oriented Programming<br><br>Data Structures and Algorithms<br><br>I'm interested in these steps to become a good problem solver and build strong projects.</p>
+<p align="center">I'm currently learning C++ and actively developing my skills. My goals are:<br><br>Algorithmic Problem Solving 🧩<br><br>Projects 🚀<br><br>OOP: Object-Oriented Programming 🏗️<br><br>Data Structures and Algorithms 📊<br><br>I'm interested in these steps to become a good problem solver and build strong projects.</p>
 
 ###
 
