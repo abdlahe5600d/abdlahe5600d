@@ -46,3 +46,7 @@
 <h3 align="left">My Journey So Far 🌟</h3>
 
 ###
+<p align="left">I am a beginner in programming and have started with C++ to learn the basics. My goal is to build a strong foundation in coding, making me a proficient problem solver and capable of creating clean projects. After mastering C++, I plan to explore other programming languages to broaden my skills.
+
+This journey is exciting and filled with endless learning opportunities. I'm committed to continuous improvement and am enthusiastic about the future possibilities in the tech world.</p>
+
