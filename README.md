@@ -25,24 +25,16 @@
 
 ###
 
-<h3 align="center">My Journey So Far 🌟</h3>
-
-###
-
-<p align="left"></p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
 
-<p align="left"></p>
+<h3 align="left">My Journey So Far 🌟</h3>
 
 ###
