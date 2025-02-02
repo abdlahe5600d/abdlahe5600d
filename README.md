@@ -35,6 +35,14 @@
 
 ###
 
+<h3 align="left"> Stats 📊 </h3>
+
+###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdlahe5600d&show_icons=true&theme=radical)
+
+###
+
 <h3 align="left">My Journey So Far 🌟</h3>
 
 ###
